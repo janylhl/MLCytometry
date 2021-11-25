@@ -66,7 +66,6 @@ print(data0.shape)
 pca = PCA(pca_dim)
 df = pca.fit_transform(data0)
 
-
 # Initialize the class object
 kmeans = KMeans(n_clusters=3)
 #print(df.shape)
@@ -94,6 +93,7 @@ pca = PCA(pca_dim)
 df = pca.fit_transform(data)
 data = pd.read_csv("Levine_13dim.txt", sep="\t")
 data = data.dropna()
+print('labels = ', data['label'].shape)
 #print(df.shape)
 plt.figure('PCA et labels')
 plt.scatter(df[:, 0], df[:, 1],

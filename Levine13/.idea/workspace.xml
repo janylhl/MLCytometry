@@ -42,7 +42,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.tSNE">
+  <component name="RunManager" selected="Python.kmeans">
     <configuration name="DBSCAN" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Levine13" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -170,7 +170,7 @@
       <option name="presentableId" value="Default" />
       <updated>1637330086795</updated>
       <workItem from="1637330088178" duration="14673000" />
-      <workItem from="1637757601245" duration="7068000" />
+      <workItem from="1637757601245" duration="8730000" />
     </task>
     <servers />
   </component>
@@ -182,6 +182,6 @@
     <SUITE FILE_PATH="coverage/Levine13$main.coverage" NAME="main Coverage Results" MODIFIED="1637336538172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Levine13$comparaison.coverage" NAME="comparaison Coverage Results" MODIFIED="1637759468173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Levine13$DBSCAN.coverage" NAME="DBSCAN Coverage Results" MODIFIED="1637762840478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Levine13$kmeans.coverage" NAME="kmeans Coverage Results" MODIFIED="1637765092699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Levine13$kmeans.coverage" NAME="kmeans Coverage Results" MODIFIED="1637766673306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
