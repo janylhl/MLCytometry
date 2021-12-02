@@ -30,7 +30,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/comparaison.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ISAR-Image-Classification/SAR-Classification" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -170,7 +170,10 @@
       <option name="presentableId" value="Default" />
       <updated>1637330086795</updated>
       <workItem from="1637330088178" duration="14673000" />
-      <workItem from="1637757601245" duration="8730000" />
+      <workItem from="1637757601245" duration="9455000" />
+      <workItem from="1637912422544" duration="1218000" />
+      <workItem from="1637937587296" duration="45000" />
+      <workItem from="1638362137992" duration="26000" />
     </task>
     <servers />
   </component>
